@@ -1,0 +1,23 @@
+{
+  "name": "workout-hero",
+  "version": "1.0.0",
+  "private": true,
+  "description": "workout-hero",
+  "author": "Mohammed",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.22.1",
+    "gatsby-plugin-google-analytics": "^4.22.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
