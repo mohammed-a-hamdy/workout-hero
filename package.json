@@ -1,6 +1,6 @@
 {
   "name": "workout-hero",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "private": true,
   "description": "workout-hero",
   "author": "Mohammed",
@@ -15,9 +15,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "bulma": "^0.9.4",
     "gatsby": "^4.22.1",
-    "gatsby-plugin-google-analytics": "^4.22.0",
+    "gatsby-plugin-sass": "^5.22.0",
+    "gatsby-source-filesystem": "^4.22.0",
+    "gatsby-transformer-excel": "^4.22.0",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "sass": "^1.54.9"
   }
 }
